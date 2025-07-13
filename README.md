@@ -40,6 +40,12 @@ In this lab, I took on the role of a **data scientist at a hedge fund**. My task
 - Extracting **open**, **high**, **low**, and **close** prices
 - Performing **basic visualizations** with `matplotlib`
 
+## 🎓 Certificate of Completion
+
+✅ I have successfully completed this lab as part of the IBM course **"Python Project for Data Science"**.  
+📎 The certificate is included in this repository as:  
+**`IBM_Certificate_Extracting_Stock_Data.pdf`**
+
 ## 🧪 Why This Lab Is Important
 
 This lab is designed to help beginners understand how **Python can be used in real-world data science scenarios**, especially in the financial industry. By working through it, I gained insight into how hedge funds or analysts might:
